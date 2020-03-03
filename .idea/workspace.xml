@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03d1fdd5-86f7-4c6b-8ecf-4b775cf69057" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yd9YiG1BGKnwXrxVe5E8eoIwIU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="Assignment 3.2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment 3.2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../j0K1SjFwRHq3CKSTLswgBQ" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03d1fdd5-86f7-4c6b-8ecf-4b775cf69057" name="Default Changelist" comment="" />
+      <created>1583261653323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583261653323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="234" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583266215471">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="468" y="234" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.864@0.0.1536.864" timestamp="1583266215471" />
+    <state x="530" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1583262233383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="530" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1583262233383" />
+    <state x="436" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583265993464">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="436" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1583265993464" />
+    <state x="499" y="130" key="FileChooserDialogImpl" timestamp="1583266205290">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="130" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583266205290" />
+    <state width="1481" height="208" key="GridCell.Tab.0.bottom" timestamp="1583266182440">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583266182440" />
+    <state width="1481" height="208" key="GridCell.Tab.0.center" timestamp="1583266182440">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583266182440" />
+    <state width="1481" height="208" key="GridCell.Tab.0.left" timestamp="1583266182440">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583266182440" />
+    <state width="1481" height="208" key="GridCell.Tab.0.right" timestamp="1583266182440">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583266182440" />
+    <state x="401" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1583266796936">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="401" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583266796936" />
+  </component>
+</project>
